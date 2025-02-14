@@ -17,8 +17,8 @@ I'm passionate about web development, databases, and creating user-friendly appl
 - Anything that helps improve coding skills!
 
 ## 📫 How to Reach Me
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourname)
+- Email: nonimutiatugas@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/NoniMutia)
 - GitHub: [@NoniMutia](https://github.com/NoniMutia)
 
 ## 😄 Pronouns
